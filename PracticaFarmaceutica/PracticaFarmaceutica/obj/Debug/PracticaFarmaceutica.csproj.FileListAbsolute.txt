@@ -1,0 +1,7 @@
+C:\Users\Wilfredo Morales\source\repos\PracticaFarmaceutica\PracticaFarmaceutica\bin\Debug\PracticaFarmaceutica.exe.config
+C:\Users\Wilfredo Morales\source\repos\PracticaFarmaceutica\PracticaFarmaceutica\bin\Debug\PracticaFarmaceutica.exe
+C:\Users\Wilfredo Morales\source\repos\PracticaFarmaceutica\PracticaFarmaceutica\bin\Debug\PracticaFarmaceutica.pdb
+C:\Users\Wilfredo Morales\source\repos\PracticaFarmaceutica\PracticaFarmaceutica\obj\Debug\PracticaFarmaceutica.csproj.AssemblyReference.cache
+C:\Users\Wilfredo Morales\source\repos\PracticaFarmaceutica\PracticaFarmaceutica\obj\Debug\PracticaFarmaceutica.csproj.CoreCompileInputs.cache
+C:\Users\Wilfredo Morales\source\repos\PracticaFarmaceutica\PracticaFarmaceutica\obj\Debug\PracticaFarmaceutica.exe
+C:\Users\Wilfredo Morales\source\repos\PracticaFarmaceutica\PracticaFarmaceutica\obj\Debug\PracticaFarmaceutica.pdb
